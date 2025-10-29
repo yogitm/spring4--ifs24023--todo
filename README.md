@@ -7,6 +7,7 @@
 - Melakukan inisialisasi proyek
 - Menambahkan method 'seyHello()' pada HomeController
 = Menambahkan pengujian untuk method 'seyHello()'
+-- 
 
 
 ## Syntax
