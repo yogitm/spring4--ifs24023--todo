@@ -30,4 +30,4 @@ jobs:
       with:
         name: test-results
         path: target/site/jacoco/
-    ./mvnw clean test -Djacoco.skip=true
+    
