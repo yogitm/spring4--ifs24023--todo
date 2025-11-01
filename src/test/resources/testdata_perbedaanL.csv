@@ -1,0 +1,5 @@
+case,raw_input
+matrix3x3,"3\n1 2 3\n4 5 6\n7 8 9"
+matrix2x2,"2\n1 2\n3 4"
+matrix1x1,"1\n9"
+invalid_data,"3\n1 2\n4 5 6"

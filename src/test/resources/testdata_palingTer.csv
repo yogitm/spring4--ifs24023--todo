@@ -1,0 +1,6 @@
+case,raw_input
+normal,80,90,75,75,100,90
+semua_sama,50,50,50
+naik_turun,10,20,30,40,50
+terendah_sama,10,10,20,20,30
+nilai_tunggal,100
